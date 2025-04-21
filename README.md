@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CD-Kobayashi
-- 👀 I’m interested in Front-end and Full Stack Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on Front-end projects.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning R.
+- 💞️ I’m looking to collaborate on Data Analytics projects.
 - 📫 How to reach me candokuyucu@gmail.com or via here.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: one hell of a cook
